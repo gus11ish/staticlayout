@@ -1,3 +1,136 @@
-.margin{
+.topnav{
+    height: 48px;
+    padding: 8px 0;
+    color: black;
+    border: 100px;
+
 
 }
+
+.box1{
+    Position: relative;
+    border-radius: 5px;
+    top: 12px;
+    left: 530px;
+    width: 80px;
+    border: 1px;
+    padding: 25px;
+    margin: 20px;
+    background-color: purple;
+     color: white;
+    font size: 8%;
+  
+}
+
+.box2{
+    Position: relative;
+    border-radius: 5px;
+    top: -108px;
+    left: 680px;
+    width: 80px;
+    border: 1px;
+    padding: 25px;
+    margin: 20px;
+    background-color: gray;
+     color: white;
+    font size: 8%;
+}
+
+.box3{
+    Position: relative;
+    border-radius:5px ;
+    top: -228px;
+    left: 830px;
+    width: 80px;
+    border: 1px;
+    padding: 25px;
+    margin: 20px;
+    background-color: green;
+     color: white;
+    font size: 8%;
+}
+
+.box4{
+    Position: relative;
+    border-radius:5px ;
+    top: -348px;
+    left: 980px;
+    width: 80px;
+    border: 1px;
+    padding: 25px;
+    margin: 20px;
+    background-color: purple;
+     color: white;
+    font size: 8%;
+  
+     
+  }
+
+.box5{
+    Position: relative;
+    border-radius: 5px;
+    top: -350px;
+    left: 530px;
+    width: 80px;
+    border: 1px;
+    padding: 25px;
+    margin: 20px;
+    background-color: grey;
+     color: white;
+    font size: 8%;
+  
+}
+
+.box6{
+    Position: relative;
+    border-radius: 5px;
+    top: -470px;
+    left: 680px;
+    width: 80px;
+    border: 1px;
+    padding: 25px;
+    margin: 20px;
+    background-color: green;
+     color: white;
+    font size: 8%;
+}
+
+.box7{
+    Position: relative;
+    border-radius:5px ;
+    top: -588px;
+    left: 830px;
+    width: 80px;
+    border: 1px;
+    padding: 25px;
+    margin: 20px;
+    background-color: purple;
+     color: white;
+    font size: 8%;
+}
+.box8{
+    Position: relative;
+    border-radius:5px ;
+    top: -708px;
+    left: 980px;
+    width: 80px;
+    border: 1px;
+    padding: 25px;
+    margin: 20px;
+    background-color: purple;
+     color: white;
+    font size: 8%;
+  
+     
+  }
+
+
+
+
+
+
+
+
+
+
+
